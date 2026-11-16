@@ -270,7 +270,7 @@ Run these once per architecture change. They are the cheapest debugging you will
 
 ## License
 
-MIT — see `LICENSE`.
+MIT — see [LICENCE](LICENCE).
 
 ---
 

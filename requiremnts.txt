@@ -1,0 +1,7 @@
+# --- core ---
+torch>=2.1.0
+numpy>=1.24.0
+
+# --- NL -> Linux command pipeline ---
+datasets>=2.18.0          # load_dataset, load_from_disk, DatasetDict
+tokenizers>=0.15.0        # ByteLevelBPETokenizer
